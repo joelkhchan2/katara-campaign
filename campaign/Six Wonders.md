@@ -19,6 +19,8 @@ A mothkin Feywild villain, inspired by Hawkmoth from Miraculous. He turns creatu
 - **Played:** He is after the Star "for some time." He wants a power stronger than a Wish, something that will change all of reality.
 - **Prep:** He says he wants to "set right the thing that was taken from me" and remake the world kinder. He gives his helpers a brooch that listens for him (a planned weak point). Not yet said at the table.
 
+- **Backstory: open (Joel's call).** Initial direction: he lost a loved one to death, echoing Hawkmoth in Miraculous, and wants to rewrite reality to undo it. Keep the specifics open until clues land and the table's guesses show which version fits. Katara likes nature themes and complex plots (Ender's Game, Project Hail Mary), so moth and light imagery, and an enemy the party can come to understand, are good fits. Keep the loss implied (a name, a locket, an empty chair), not graphic.
+
 ## Starsilver
 A rare metal famous among dwarves. It appears only at certain times of year and has not been found outside certain regions. The Star is made of it. After Session 2, Dormir has some. Dormir's family forges bright metals and she is out looking for the purest metal to bring home, so Starsilver is personal to her.
 
