@@ -1,6 +1,6 @@
 # Session 2: The Reindeer Problem
 
-**Played:** Aug 1, 2026. **Present:** Judy (Katara), Dormir (Gabrielle), Lyric Nightingale (Priscilla, new). **Level:** 2, levelled to 3 afterward.
+**Played:** Aug 1, 2026. **Present:** Judy (Katara), Dormir (Gabrielle), Lyric Nightingale (Priscilla, new). **Level:** 2, levelled to 3 at the end of the session.
 Source: Gabrielle's notes (`legacy/Katara Campaign (Gabrielle session notes).md`) and Joel's confirmations. Joel's prep file (`legacy/Session 2 - Player Handouts.md`) is a plan only. Where prep and play differ, play wins.
 
 ## What happened
@@ -11,12 +11,12 @@ Source: Gabrielle's notes (`legacy/Katara Campaign (Gabrielle session notes).md`
 - **The stables:** The reindeer go wild at night. Rudolph is immune.
 - **The fight:** The party fights Noel(le) and The Hawk. Noelle is not redeemed. She goes to Christmas jail (assumed by Joel, not confirmed at the table).
 - **The Hawk's speech:** He has wanted the Star for a long time. It is one of six Wonders. Together they can control reality, and the Horn lets its holder cast Wishes. The Star controls all wonder. He wants a power stronger than a Wish.
-- **Ending:** The party rescues Santa. The Hawk flies off. The party does not keep the Star, and Dormir gets some Starsilver (the Star is made of it).
+- **Ending:** The party rescues Santa. The Hawk flies off. Santa keeps the Star. Dormir gets some Starsilver (the Star is made of it).
 - **Loot:** 10 gp, 2 healing potions (2d4+2), 1 Nog Wild (2d4 temp HP plus a wild magic roll), 1 coal bomb (2d6 fire, DC 13 save for half), a cocoa thermos (5 temp HP, advantage on cold).
 
 ## Unconfirmed
 - Which Session 2 props actually reached the table (the planned list is in `legacy/`).
-- Where the Star is now.
+- Where Santa keeps the Star now.
 - The Hawk's exit, and whether he took anything.
 - What happens to the reindeer and the night-madness.
 
