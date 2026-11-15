@@ -7,7 +7,7 @@ Status key: **Played** (happened at the table), **Prep** (in Joel's notes, never
 | # | Wonder | What it does | Where it is | Status |
 |---|---|---|---|---|
 | 1 | The Horn | Lets its holder cast Wishes. | The Hawk has it. It was Clarence's, then Princess Dicentra's. | Played |
-| 2 | The Star | Holds all wonder: the power to believe and imagine something beyond. Made of Starsilver. | TBD. It stayed at the North Pole after Session 2. The party did not keep it. | Played |
+| 2 | The Star | Holds all wonder: the power to believe and imagine something beyond. Made of Starsilver. | TBD. The party did not keep it. Dormir received some Starsilver from it. | Played |
 | 3 | The Vial | Holds the grief The Hawk poured out of himself. | The Hawk has carried it "for longer than the workshop has stood." | Prep |
 | 4 | TBD | | | |
 | 5 | TBD | | | |
