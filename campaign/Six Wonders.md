@@ -2,16 +2,18 @@
 
 The spine of the campaign. Six magical items that, brought together, can rewrite reality. The Hawk is collecting them. He wants power "stronger than a Wish."
 
+Each Wonder lets its holder cast one powerful spell. "Rewrite reality" means holding all six at once.
+
 Status key: **Played** (happened at the table), **Canon, not yet at the table** (decided by Joel, players have not heard it), **Prep** (in Joel's notes, never said at the table, free to change), **TBD**.
 
-| # | Wonder | What it does | Where it is | Status |
-|---|---|---|---|---|
-| 1 | The Horn | Lets its holder cast Wishes. | The Hawk has it. It was Clarence's, then Princess Dicentra's. | Played |
-| 2 | The Star | Holds all wonder: the power to believe and imagine something beyond. Made of Starsilver. | Santa kept it after the party rescued him. Dormir received some Starsilver from it. | Played |
-| 3 | The Vial | Holds the grief The Hawk poured out of himself. | The Hawk has carried it "for longer than the workshop has stood." | Canon, not yet at the table |
-| 4 | TBD | | | |
-| 5 | TBD | | | |
-| 6 | TBD | | | |
+| # | Wonder | Spell | What it is | Where it is | Status |
+|---|---|---|---|---|---|
+| 1 | The Horn | Wish | Wish-granting. Clarence's, then Dicentra's. | The Hawk | Played |
+| 2 | The Star | Dream | All wonder: belief, imagination. Made of Starsilver. | Santa kept it. Dormir received some Starsilver from it. | Played |
+| 3 | The Vial | TBD (a 9th-level spell, see Plot Threads) | Holds the grief The Hawk poured out of himself. | The Hawk has carried it "for longer than the workshop has stood." | Canon, not yet at the table |
+| 4 | The Seed | True Polymorph, cast instantly | Change and transformation. Grows into anything. | TBD | Decided, not yet at the table |
+| 5 | The Anvil | TBD (Creation or Simulacrum) | Making: a crafted thing becomes real. Starsilver rings true on it. | TBD | Decided, not yet at the table |
+| 6 | The Song | Mass Suggestion | A melody that holds a memory. | TBD | Decided, not yet at the table |
 
 ## The Hawk
 A mothkin Feywild villain, inspired by Hawkmoth from Miraculous. He turns creatures into "unstable" minions by amplifying their negative emotions, and uses the chaotic magic to fuel his plan. He flew off at the end of Session 1 with the Horn, and again at the end of Session 2.
