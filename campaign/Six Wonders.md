@@ -10,10 +10,13 @@ Status key: **Played** (happened at the table), **Canon, not yet at the table** 
 |---|---|---|---|---|---|
 | 1 | The Horn | Wish | Wish-granting. Clarence's, then Dicentra's. | The Hawk | Played |
 | 2 | The Star | Dream | All wonder: belief, imagination. Made of Starsilver. | Santa kept it. Dormir received some Starsilver from it. | Played |
-| 3 | The Vial | TBD (a 9th-level spell, see Plot Threads) | Holds the grief The Hawk poured out of himself. | The Hawk has carried it "for longer than the workshop has stood." | Canon, not yet at the table |
+| 3 | The Vial | Time Stop | Holds the grief The Hawk poured out of himself. Grief freezes a person in the moment of the loss. | The Hawk has carried it "for longer than the workshop has stood." | Canon, not yet at the table |
 | 4 | The Seed | True Polymorph, cast instantly | Change and transformation. Grows into anything. | TBD | Decided, not yet at the table |
-| 5 | The Anvil | TBD (Creation or Simulacrum) | Making: a crafted thing becomes real. Starsilver rings true on it. | TBD | Decided, not yet at the table |
+| 5 | The Hammer | Creation | Making: a crafted thing becomes real. Starsilver rings true on it. | TBD | Decided, not yet at the table |
 | 6 | The Song | Mass Suggestion | A melody that holds a memory. | TBD | Decided, not yet at the table |
+
+## Using a Wonder
+Anyone can use a Wonder, including a PC. Most are once a day. The Hammer is the exception: its holder can create material at any time. Costs, limits and side effects are decided per Wonder before one reaches a player. Do not hand one over without discussing it first.
 
 ## The Hawk
 A mothkin Feywild villain, inspired by Hawkmoth from Miraculous. He turns creatures into "unstable" minions by amplifying their negative emotions, and uses the chaotic magic to fuel his plan. He flew off at the end of Session 1 with the Horn, and again at the end of Session 2.
