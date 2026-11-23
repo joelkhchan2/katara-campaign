@@ -31,7 +31,7 @@ Experienced player who plays for fun. She has not fleshed out Dormir beyond the 
 - The Light domain: a dark place that Light, Radiance of the Dawn or Warding Flare can solve.
 
 ## Open questions to ask Gabrielle
-- Which deity does Dormir serve? The sheet does not say.
+- Dormir's power is described as light and craft, with no named deity.
 - What does her family forge, and what would they do with Starsilver?
 - What did she wish for when Clarence offered a Wish in Session 1?
 - What did she decide at level 3?

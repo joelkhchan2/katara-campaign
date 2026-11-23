@@ -8,7 +8,9 @@ About 50% mystery and clue-hunting, 30% comedy, 20% wonder. PG. Danger stays rea
 - **Gabrielle and Priscilla** are veterans playing for fun.
 - Never talk down. Never script a PC.
 
-## Content limits (PG)
+## Content limits (PG, family-friendly)
+- **No evil or paranormal things.** No devils, demons, gods or deities as characters, no ghosts, and no undead. Threats are animals, mischief, fey chaos, grief, and misguided people.
+- Divine magic is described as light and craft. No named deity is needed for Dormir's cleric powers.
 - Fear and danger are fine. Gore, cruelty to animals, and graphic death are not.
 - A villain's loss is implied (a name, a locket, an empty chair), never shown in detail.
 - Romance stays light (Clarence and Dicentra is the ceiling).
