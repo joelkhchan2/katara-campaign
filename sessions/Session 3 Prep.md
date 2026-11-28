@@ -77,6 +77,7 @@ About 300 gp, as above.
 (Fill in after the session.) The table's theory about the moths, the six marks, and the logbook decide where Session 4 goes: toward a Wonder or toward The Hawk's past.
 
 ## Review notes
-- Judy has no sheet on file. Get one from Katara.
-- Check swarm stats and the level-3 spell lists against your books.
-- The base could be the tiny cottage that is bigger inside instead. If so, reskin the squatters (squirrels or crows in the rafters) and swap the moths for the cottage's own oddity.
+- Judy's character card is to be filled in later.
+- Both bases are fully prepped. Pick one at the table, or let the players choose.
+- Swarm of ravens uses the 2014 stats (24 HP). The 2024 version has 11 HP and a Cacophony attack, which would make the fight much easier. Confirm the edition.
+- Level-3 menus use the 2014 books (Dormir's sheet is 2014): Light domain spells at 3 are Flaming Sphere and Scorching Ray, a level-3 cleric has four 1st-level and two 2nd-level slots, Fighter subclasses are Champion, Battle Master and Eldritch Knight, and Bard colleges are Lore and Valor.
