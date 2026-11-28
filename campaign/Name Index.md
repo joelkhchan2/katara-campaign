@@ -30,6 +30,9 @@ Check here before reusing a name. **Played** means it happened at the table. Any
 ## Places
 Waterdeep (Judy's bookshop), Baldur's Gate (the Session 1 marketplace), the Stable (Feywild demiplane), the North Pole (Santa's office, the stables, the emergency bunker), Christmas jail, the Amberspire Mountains.
 
+## Bases (Session 3, one will be chosen)
+The Lantern House (a lighthouse on the Waterdeep cliffs) and Thimble Cottage (a cottage that is bigger inside). See `locations/`.
+
 ## Items
 The Horn, the Star, the Vial, Starsilver. See `Six Wonders.md`.
 

@@ -16,7 +16,9 @@ Level: 3 (they levelled at the end of Session 2). Tone: mostly comedy and myster
 ## Beats
 
 ### 1. Cold open: the keys (about 15 minutes)
-A clerk from the city hands the party a ring of keys to an old lighthouse on the cliffs. It is a reward for the North Pole business, or a bureaucratic mistake. Clerk: bored, deadpan, will not explain. Read-aloud:
+A clerk from the city hands the party a ring of keys to a base of operations. Two versions are fully prepped: the Lantern House (`locations/The Lantern House.md`) and Thimble Cottage (`locations/Thimble Cottage.md`). The text below is written for the Lantern House. For the cottage, reskin the squatters (crows or squirrels in the rafters) and swap the moths for the cottage's own oddity (the extra door).
+
+The clerk hands over keys to an old lighthouse on the cliffs. It is a reward for the North Pole business, or a bureaucratic mistake. Clerk: bored, deadpan, will not explain. Read-aloud:
 "The lighthouse stands alone on the cliff, wind pulling at its door. Gulls complain from the rail. Inside, dust and old lamp oil, and 90 steps up a stairwell that has seen better days. Somewhere above you, something is rustling."
 Hand it back: "What do you do?"
 - The rustling is the squatters (Beat 4). Let them explore first.
